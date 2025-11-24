@@ -1,0 +1,1 @@
+The full codebase is private due to ongoing development and planned real-world deployment. This repository includes selected components of the project to provide a clear overview of the project’s structure and functionality.
